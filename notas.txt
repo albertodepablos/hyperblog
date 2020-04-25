@@ -22,3 +22,5 @@ git config --list --show-origin
 git config --global user.name "Alberto Depablos"
 git config --global user.email
 git log + nombre del archivo = ves todos los cambios del archivo
+git show + nombre del archivo
+ESC + SHIF + Z dos veces para salir del anterior
