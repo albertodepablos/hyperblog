@@ -1,0 +1,24 @@
+Notas curso Git y GitHub
+
+touch: permite crear un archivo vacio 
+ls = saber que archivos contiene la carpeta
+cd. = mismo lugar
+cd.. = carpeta anterior
+cd + nombre del archivo + / pegado = entrar a carpeta
+cat + nombre del archivo = muestra el contenido interno del archivo
+history = muestra los comando utilizados 
+!+numero de comando = invoca nuevamente ese comando
+rm+nombre del archivo = borrar archivo
+comando+--help = mostrar como funciona cada comando
+git init = iniciar repositorio
+ls -al = ver archivos de una carpeta incluido los ocultos
+git status = saber el status de los archivos
+git add + archivo = pone en espera de que se haga algun cambio
+git rm --cached + nombre del archivo = saca el archivo de la espera
+git commit -m "este es el primer commit de este archivo
+git config = todas las configuraciones de git
+git config --list = configuracion por defecto
+git config --list --show-origin
+git config --global user.name "Alberto Depablos"
+git config --global user.email
+git log + nombre del archivo = ves todos los cambios del archivo
