@@ -26,3 +26,4 @@ git show + nombre del archivo
 ESC + SHIF + Z dos veces para salir del anterior
 git add. agregar todo
 git add + nombre del archivo 
+git log --stat historico de cambios
