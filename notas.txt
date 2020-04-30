@@ -29,4 +29,6 @@ git add + nombre del archivo
 git log --stat historico de cambios
 git branch + nombre de la rama nueva
 git checkout + nombre de la rama para moverme a esa rama
+
+
 git branch solo sirve para saber en que head estoy y las ramas que tengo
