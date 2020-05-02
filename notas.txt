@@ -48,3 +48,9 @@ $ git tag -a v0.1 -m "resultado de las primeras clases del curso" 6356c56 (agreg
 
 OJO git pull origin master me trae lo que tengo en remoto para fusionarlo con
 el master actual
+
+luego agregas normal tus cambios al repositorio con git add y git commit
+
+y enviamos al servidor con
+
+git push origin master
