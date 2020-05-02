@@ -42,3 +42,9 @@ ssh-keygen -t rsa -b 4096 -C "alb.depablos@gmail.com" CREAR LLAVES
 git remote -v para ver los datos de git
 git remote set-url origin + ssh de git y cambiamos el origen a la clave
 cifrada
+$ git log --all --graph --decorate --oneline 
+git tag = muestra todos los tag
+$ git tag -a v0.1 -m "resultado de las primeras clases del curso" 6356c56 (agregamos un tag)
+
+OJO git pull origin master me trae lo que tengo en remoto para fusionarlo con
+el master actual
